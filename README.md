@@ -1,1 +1,1 @@
-This repository contains all digital notes for all AERE Classes at Iowa State University. 
+This repository contains student taken notes in AERE 361 and AERE 311 at Iowa State University. 
