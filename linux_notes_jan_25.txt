@@ -1,0 +1,23 @@
+CHMOD
+ -user -u
+ - group -g
+ - all -a
+ -read -r
+ - write -w
+ - x - execute
+
+greo
+
+Extensions at the end or files are strictly for users, not the machines.
+
+ON files
+-touch
+-|
+->
+->>
+-2>
+->&
+
+TWO different outputs:
+- STDOUT
+_ STDERR
