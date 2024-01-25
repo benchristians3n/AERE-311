@@ -20,4 +20,4 @@ ON files
 
 TWO different outputs:
 - STDOUT
-_ STDERR
+- STDERR
