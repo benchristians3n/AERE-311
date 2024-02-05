@@ -39,6 +39,35 @@ T = T0(p/p0 )^(γ - 1/γ)  = 530 K(1 atm/10 atm)^(0.2857) = 275 K
 ρ = p/RT = (1 × 1.01 × 10^4) N/m2/(287 Jkg⋅K)(275 K) = 1.282 kg/m3
 
 
+% In the reservoir of a supersonic wind tunnel, the velocity is negligible, and the temperature is 980 K. The temperature at the 
+% nozzle exit is 600 K. Assuming adiabatic flow through the nozzle, calculate the velocity at the exit. (Round the final answer 
+% to three decimal places.)
+input solution
+
+
+% An airfoil is in a freestream where p∞ = 0.61 atm, ρ∞ = 0.819 kg/m3, and V∞ = 300 m/s. At a point on the airfoil surface, the 
+% pressure is 0.500 atm. Assuming isentropic flow, calculate the velocity at that point. (Round the final answer to three 
+% decimal places
+input solution
+
+
+% An airfoil is in a freestream where p∞ = 0.61 atm, ρ∞ = 0.819 kg/m3, and V∞ = 300 m/s. At a point on the airfoil surface, 
+% the pressure is 0.530 atm. Assuming isentropic flow, calculate the velocity at that point and the percentage error obtained 
+% if this problem is solved using (incorrectly) the incompressible Bernoulli equation. (Round the final answers to three decimal places.)
+input solution
+
+
+% An airfoil is in a freestream where p∞ = 0.61 atm, ρ∞ = 0.819 kg/m3, and V∞ = 290.0 m/s. At a point on the airfoil surface, 
+% the pressure is 0.3 atm. Assuming isentropic flow, calculate the velocity at that point. (Round the final answer to three decimal places.)
+input solution
+
+
+
+% An airfoil is in a freestream where p∞ = 0.61 atm, ρ∞ = 0.819 kg/m3, and V∞ = 290.0 m/s. At a point on the airfoil surface, 
+% the pressure is 0.3 atm. Assuming isentropic flow, calculate the velocity at that point. (Round the final answer to three decimal places.)
+input solution
+
+
  
 
 
