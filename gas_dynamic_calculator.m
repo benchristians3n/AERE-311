@@ -59,13 +59,13 @@ input solution
 
 % An airfoil is in a freestream where p∞ = 0.61 atm, ρ∞ = 0.819 kg/m3, and V∞ = 290.0 m/s. At a point on the airfoil surface, 
 % the pressure is 0.3 atm. Assuming isentropic flow, calculate the velocity at that point. (Round the final answer to three decimal places.)
-input selection
+input solution
 
 
 
 % An airfoil is in a freestream where p∞ = 0.61 atm, ρ∞ = 0.819 kg/m3, and V∞ = 290.0 m/s. At a point on the airfoil surface, 
 % the pressure is 0.3 atm. Assuming isentropic flow, calculate the velocity at that point. (Round the final answer to three decimal places.)
- 
+input solution
 
 
  
